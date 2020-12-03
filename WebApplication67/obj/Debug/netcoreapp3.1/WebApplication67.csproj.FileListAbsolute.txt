@@ -221,3 +221,4 @@ C:\Git\NewTest\WebApplication67\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstan
 C:\Git\NewTest\WebApplication67\obj\Debug\netcoreapp3.1\WebApplication67.csproj.CoreCompileInputs.cache
 C:\Git\NewTest\WebApplication67\obj\Debug\netcoreapp3.1\WebApplication67.MvcApplicationPartsAssemblyInfo.cache
 C:\Git\NewTest\WebApplication67\obj\Debug\netcoreapp3.1\Razor\Views\Emps\Index.cshtml.g.cs
+C:\Git\NewTest\WebApplication67\obj\Debug\netcoreapp3.1\Razor\Views\Shared\OurPView.cshtml.g.cs
